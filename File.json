@@ -1,0 +1,20 @@
+[
+    {
+        "device_id": "674d0cc2d8019f26",
+        "key": "VipGer88",
+        "expirydate": "31-05-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "674d0cc2d8019f26",
+        "key": "VipGer88",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
+    },
+  {
+        "device_id": "674d0cc2d8019f26",
+        "key": "VipGer88",
+        "expirydate": "31-05-2026",
+        "Allowoffline": true
+    },
+]
